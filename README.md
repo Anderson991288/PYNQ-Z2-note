@@ -7,8 +7,8 @@
 2. 用網路線將板子跟電腦的網路孔對接
 3. 指定筆電乙太網路卡靜態IPv4:192.168.2.X，X可以是除了99以外0~254的數字
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f603b0d0-ecd4-4aca-a0e7-ed564af817b3/bb7e6189-d124-4119-8c7d-dd19e4c6d991/Untitled.png)
-    
+![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/686281d0-2948-4d8e-b035-179b4cb7306b)
+
 4. 在瀏覽器輸入 [**http://192.168.2.99](http://192.168.2.99/)** 及可連到jupyter的web介面
 5. 如果配置正確，就會看到登入畫面。使用者名稱是 xilinx，密碼也是 xilinx
 
