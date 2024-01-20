@@ -9,7 +9,7 @@
     
 ![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/686281d0-2948-4d8e-b035-179b4cb7306b)
 
-4. 在瀏覽器輸入 [**http://192.168.2.99](http://192.168.2.99/)** 及可連到jupyter的web介面
+4. 在瀏覽器輸入 [http://192.168.2.99](http://192.168.2.99/) 即可連到jupyter的web介面
 5. 如果配置正確，就會看到登入畫面。使用者名稱是 xilinx，密碼也是 xilinx
 
 ## 範例程式
