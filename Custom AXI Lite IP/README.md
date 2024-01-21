@@ -1,4 +1,3 @@
-![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/5f1fa118-514e-4023-9d15-513eac268290)# Creating a custom AXI Lite IP in Vivado 
 
 ## 1.開一個新專案，板子選擇PYNQ-Z2。若找不到，參考前一頁的方法加入板子
 
