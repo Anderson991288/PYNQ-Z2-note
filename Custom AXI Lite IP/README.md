@@ -25,3 +25,12 @@
 ![4](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/a1246920-3c0d-4559-8484-c5492209182b)
 
 ![5](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/e7cad5d9-8ceb-4076-bfdf-728695a87b11)
+
+## 4. Run Synthesis 和 Run Implementation，完成後再 re-package IP
+
+![6](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/5ca7236c-fc56-4a4b-936b-78b90a8ba0c8)
+
+
+
+
+
