@@ -1,3 +1,7 @@
+# Creating a custom AXILite IP in Vivado 
+
+## 通過 PYNQ 框架控制 FPGA 上的自定義 IP 來操作 LED 燈。
+
 
 ## 1.開一個新專案，板子選擇PYNQ-Z2。若找不到，參考前一頁的方法加入板子
 
@@ -61,3 +65,25 @@
 ## 11. 將 design_1.tcl ，design_1_wrapper.bit，design_1.hwh 複製到板子上
 * **所有的檔名要一樣**
 ![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/95cd8a44-5d2a-4266-a65c-e86ffd2300ea)
+
+## 12. 到Jupyter Notenook 中編寫程式，導入自訂的Overlay
+
+```
+import numpy as np
+from pynq import allocate
+from pynq import Overlay
+
+overlay = Overlay("myip.bit")
+
+hex(overlay.ip_dict['myip_0']['phys_addr'])
+adr = overlay.ip_dict['myip_0']['phys_addr']
+from pynq import MMIO
+leds = MMIO(adr,0xF)
+leds.write(0,0x3)
+
+from time import sleep
+for i in range(10):
+    for j in range(16):
+        leds.write(0,j)
+        sleep(0.5)
+```
