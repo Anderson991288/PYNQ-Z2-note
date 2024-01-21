@@ -31,6 +31,8 @@
 ![6](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/5ca7236c-fc56-4a4b-936b-78b90a8ba0c8)
 
 
+## 5.回到block design，將剛剛包好的 IP 加入，再點自動連接
 
+![7](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/5eaae914-7a39-40be-8a4b-a41bfbf05ceb)
 
-
+![8](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/45ce6662-ebd7-440d-a5c7-74e2bddac100)
