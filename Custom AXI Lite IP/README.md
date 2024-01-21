@@ -37,5 +37,13 @@
 
 ![8](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/24265999-9dea-4a89-bd4e-780ad7510756)
 
+## 6.加入PYNQ Z2 的 constraint file，
+
+### Source : https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z2/base/vivado/constraints/base.xdc
+
+![9](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/49de1e0a-a42b-488a-aac8-bc9cdd986f93)
+
+## 7. 改LED 接口的名稱，要跟 constraint file 裡面的名稱一樣
+![10](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/eeeb2497-4e0e-4f14-88e8-84a664fc59ea)
 
 
