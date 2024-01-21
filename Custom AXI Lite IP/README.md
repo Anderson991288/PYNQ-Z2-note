@@ -19,3 +19,9 @@
 ![未命名2](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/200525b2-6614-4093-88dc-414c95c1dc9a)
 
 ![未命名3](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/977c7dee-d680-4f30-aa1d-9611f8db1591)
+
+## 3.分別修改內建程式碼，加入自訂的 port
+
+![4](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/a1246920-3c0d-4559-8484-c5492209182b)
+
+![5](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/e7cad5d9-8ceb-4076-bfdf-728695a87b11)
