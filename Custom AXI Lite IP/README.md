@@ -1,7 +1,6 @@
 # Creating a custom AXILite IP in Vivado 
 
-## 通過 PYNQ 框架控制 FPGA 上的自定義 IP 來操作 LED 燈。
-
+## 透過 PYNQ 來控制 FPGA 上的自定義 IP 來操作 LED 燈
 
 ## 1.開一個新專案，板子選擇PYNQ-Z2。若找不到，參考前一頁的方法加入板子
 
