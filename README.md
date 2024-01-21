@@ -22,6 +22,16 @@
 
 ![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/a73d0e67-4a1b-4dc0-9587-c63854fea6b2)
 
+## 如何加入PYNQ-Z2 board files到Vivado
+
+1.先下载pynq-z2板文件
+
+https://github.com/xupsh/pynq-supported-board-file?tab=readme-ov-file
+
+2.下載後將文件複製到  C:\Xilinx\Vivado\2018.2\data\boards\board_files
+
+3.重開vivado，完成
+
 
 ## 範例程式
 
