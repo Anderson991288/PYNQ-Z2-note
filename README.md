@@ -24,7 +24,7 @@
 
 ## 如何加入PYNQ-Z2 board files到Vivado
 
-1.先下载pynq-z2板文件
+1.先下載pynq-z2板文件
 
 https://github.com/xupsh/pynq-supported-board-file?tab=readme-ov-file
 
