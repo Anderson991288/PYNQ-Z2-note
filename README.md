@@ -12,6 +12,17 @@
 4. 在瀏覽器輸入 [http://192.168.2.99](http://192.168.2.99/) 即可連到jupyter的web介面
 5. 如果配置正確，就會看到登入畫面。使用者名稱是 xilinx，密碼也是 xilinx
 
+
+## 透過samba傳輸文件
+非必要，因為在 jupyter 上也可以上傳下載文件
+
+1.在我的電腦，輸入 \\pynq ，Enter，輸入網路憑證：使用者名稱和密碼都是 **xilinx** 
+
+2.將出現以下畫面，點進去的 pynq\xilinx\jupyter_notebooks 就是之前我們在jupyter中看到的文件目錄了
+
+![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/a73d0e67-4a1b-4dc0-9587-c63854fea6b2)
+
+
 ## 範例程式
 
 ### LED
