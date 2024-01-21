@@ -46,4 +46,9 @@
 ## 7. 改LED 接口的名稱，要跟 constraint file 裡面的名稱一樣
 ![10](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/eeeb2497-4e0e-4f14-88e8-84a664fc59ea)
 
+## 8. "Create HDL Wrapper" ，包裝 Block Design 檔案。這個步驟的主要目的是為了建立一個頂層文件
+
+![11](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/18d45c14-0d65-46fa-8c56-25111e22804b)
+
+
 
