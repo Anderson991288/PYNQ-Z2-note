@@ -62,7 +62,9 @@
 ![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/c96ed45e-63a8-452a-845c-c25ae60b9872)
 
 ## 11. 將 design_1.tcl ，design_1_wrapper.bit，design_1.hwh 複製到板子上
+
 * **所有的檔名要一樣**
+  
 ![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/95cd8a44-5d2a-4266-a65c-e86ffd2300ea)
 
 ## 12. 到Jupyter Notenook 中編寫程式，導入自訂的Overlay
