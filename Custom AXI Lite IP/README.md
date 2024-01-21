@@ -1,4 +1,4 @@
-# Creating a custom AXILite IP in Vivado 
+# Creating a custom AXI Lite IP in Vivado 
 
 ## 透過 PYNQ 來控制 FPGA 上的自定義 IP 來操作 LED 燈
 
@@ -86,3 +86,6 @@ for i in range(10):
         leds.write(0,j)
         sleep(0.5)
 ```
+
+
+* Reference: https://www.youtube.com/watch?v=Ii9JeVHCv_o
