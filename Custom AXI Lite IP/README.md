@@ -1,4 +1,4 @@
-# Creating a custom AXI Lite IP in Vivado 
+![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/5f1fa118-514e-4023-9d15-513eac268290)# Creating a custom AXI Lite IP in Vivado 
 
 ## 1.開一個新專案，板子選擇PYNQ-Z2。若找不到，參考前一頁的方法加入板子
 
@@ -50,5 +50,12 @@
 
 ![11](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/18d45c14-0d65-46fa-8c56-25111e22804b)
 
+## 9. Run Synthesis"， "Run Implementation"，Generate Bitstream 後再輸出 Block design
 
+![12](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/c473aa9d-6000-4576-9e42-7cd073cb0c23)
+
+## 10.  輸出.tcl file
+* 在Tcl console 中輸入 "write_bd_tcl "你的專案路徑/design_1.tcl" "
+
+![image](https://github.com/Anderson991288/PYNQ-Z2-note/assets/68816726/c96ed45e-63a8-452a-845c-c25ae60b9872)
 
