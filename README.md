@@ -30,7 +30,7 @@ https://github.com/xupsh/pynq-supported-board-file?tab=readme-ov-file
 
 2.下載後將文件複製到  C:\Xilinx\Vivado\2018.2\data\boards\board_files
 
-(2024.1 version :C:\Users\ander\AppData\Roaming\Xilinx\Vivado\2024.1\xhub)
+(2024.1 version : "C:\Users\ander\AppData\Roaming\Xilinx\Vivado\2024.1\xhub")
 
 3.重開vivado，完成
 
